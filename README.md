@@ -24,7 +24,7 @@ Go bindings for Graphviz ( port of version `2.40.1` )
 # Installation
 
 ```bash
-$ go get github.com/goccy/go-graphviz
+$ go get github.com/denk0403/go-graphviz
 ```
 
 # Synopsis
