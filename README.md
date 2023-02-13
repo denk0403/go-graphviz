@@ -39,7 +39,7 @@ import (
   "fmt"
   "log"
 
-  "github.com/goccy/go-graphviz"
+  "github.com/denk0403/go-graphviz"
 )
 
 func main() {
@@ -122,7 +122,7 @@ if err := g.RenderFilename(graph, graphviz.PNG, "/path/to/graph.png"); err != ni
 ### Installation
 
 ```bash
-$ go get github.com/goccy/go-graphviz/cmd/dot
+$ go get github.com/denk0403/go-graphviz/cmd/dot
 ```
 
 ### Usage

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/goccy/go-graphviz"
+	"github.com/denk0403/go-graphviz"
 )
 
 func _main() error {
