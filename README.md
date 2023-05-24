@@ -1,11 +1,10 @@
 # go-graphviz
+
 <!-- [![Go](https://github.com/denk0403/go-graphviz/workflows/Go/badge.svg)](https://github.com/denk0403/go-graphviz/actions)  -->
+
 [![GoDoc](https://godoc.org/github.com/denk0403/go-graphviz?status.svg)](https://pkg.go.dev/github.com/denk0403/go-graphviz)
 
 Go bindings for Graphviz (port of version `2.40.1`).
-
-### Important Information:
-**This fork fixes the bug with the `ParseBytes()` and `ParseFile()` functions as described in issue [#60](https://github.com/goccy/go-graphviz/issues/60). Once PR [#66](https://github.com/goccy/go-graphviz/pull/66) is merged, this fork will be obsolete.**
 
 <img src="https://user-images.githubusercontent.com/209884/90976476-64e84000-e578-11ea-9596-fb4a7d3b11a6.png" width="400px"></img>
 
